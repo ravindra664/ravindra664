@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ravindra Kumar
-- 👀 I’m interested in Software Developer
+- 👀 I’m interested in Software Developement
 - 🌱 I’m currently learning Master of Technology in VLSI.
 - 💞️ I’m looking to collaborate on innovative software project,especially those that involve Website Development.
 - 📫 How to reach me @ravindra.job.cv@gmail.com
